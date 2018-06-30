@@ -1,3 +1,4 @@
 x = 1
 
-x = 
+# A variable must always be assigned a value.
+x = 2
